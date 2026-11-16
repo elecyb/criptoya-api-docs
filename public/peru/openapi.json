@@ -33,19 +33,18 @@
                                 "letsbit",
                                 "decrypto",
                                 "xapo",
-                                "bingxp2p",
-                                "banexcoin",
-                                "cryptomkt",
-                                "bitgetp2p",
-                                "bybitp2p",
-                                "okexp2p",
-                                "binancep2p",
-                                "buda",
                                 "lemoncash",
-                                "nexo",
+                                "banexcoin",
+                                "binancep2p",
+                                "bybitp2p",
+                                "cryptomkt",
+                                "buda",
                                 "cryptomktpro",
+                                "bitgetp2p",
                                 "p2pme",
-                                "eldoradop2p"
+                                "okexp2p",
+                                "bingxp2p",
+                                "nexo"
                             ],
                             "example": "satoshitango"
                         }

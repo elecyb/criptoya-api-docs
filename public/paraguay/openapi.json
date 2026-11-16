@@ -31,9 +31,8 @@
                             "enum": [
                                 "x4t",
                                 "binancep2p",
-                                "bybitp2p",
                                 "okexp2p",
-                                "eldoradop2p",
+                                "bybitp2p",
                                 "bingxp2p"
                             ],
                             "example": "x4t"

@@ -33,9 +33,9 @@
                                 "ripio",
                                 "binancep2p",
                                 "okexp2p",
-                                "bingxp2p",
+                                "huobip2p",
                                 "bitgetp2p",
-                                "huobip2p"
+                                "bingxp2p"
                             ],
                             "example": "xapo"
                         }

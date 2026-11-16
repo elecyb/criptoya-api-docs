@@ -30,10 +30,10 @@
                             "type": "string",
                             "enum": [
                                 "bybitp2p",
-                                "okexp2p",
-                                "bitgetp2p",
                                 "binancep2p",
-                                "bingxp2p"
+                                "bitgetp2p",
+                                "bingxp2p",
+                                "okexp2p"
                             ],
                             "example": "bybitp2p"
                         }
